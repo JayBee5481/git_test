@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en-us">
+	<head>
+		<meta charset="UTF-8"> 
+		<meta name="keywords" content="HTML"> 
+		<meta name="description" content="First Web Development Project - HTML">
+		<meta name="author" content="JayBee5481"> 
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+		<title>First Web Development Project - HTML</title>
+	</head>
+
+	<body>
+		<header>
+			<h1>Hello World !</h1>
+		</header>
+
+		<main>
+      <p>This is my first HTML project utilizing GitHub workflow.</p>
+      <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Recusandae consequatur itaque qui, aspernatur provident dolore quos, ipsum sed quia saepe non. Amet dolor dolorem ea minima perferendis, sed reprehenderit vel.</p>
+		</main>
+
+		<footer>
+			<h6>Created by JayBee5481</h6>
+		</footer>
+		
+	</body>
+
+</html>
